@@ -1,0 +1,25 @@
+
+
+# Local
+/client
+/public/wp-config.php
+/public/wp-content
+/public/icon
+/public/favicon.ico
+/public/manifest.json
+
+# Large Files
+*.zip
+*.rar
+*.exe
+
+# Log Files
+*.log
+
+# Development
+/.vscode
+!*.md
+*.swp
+.noseids
+*~
+~*
